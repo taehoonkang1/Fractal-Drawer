@@ -1,5 +1,3 @@
-//Written by Taehoon Kang, kang0493 and Yejin Shin shin0390
-
 import java.awt.*;
 import java.util.concurrent.*;
  
