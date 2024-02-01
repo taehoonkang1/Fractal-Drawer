@@ -1,6 +1,4 @@
 
-////Written by Taehoon Kang, kang0493 and Yejin Shin shin0390
-
 // FractalDrawer class draws a fractal of a shape 
 
 // FractalDrawer class draws a fractal of a shape indicated by user input
